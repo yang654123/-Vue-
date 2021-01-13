@@ -16,7 +16,7 @@ Vue 开发的OA系统
 - 工作流引擎完全手写且开源，可以类似钉钉/飞书那样，动态选择审批人员。
 - 目前最新代码仓库：[https://gitee.com/shengtaii/oa-system](http://https://gitee.com/shengtaii/oa-system)（因为目前此仓库容量超限，故转移到其他仓库，最新代码用这个仓库）
 
-### 开发教程
+### 开发教程https://github.com/yang654123/-Vue-
 
  _Wiki文档：[https://gitee.com/yunwisdoms/oa-front-service/wikis/OA%20System%20介绍](https://gitee.com/yunwisdoms/oa-front-service/wikis/OA%20System%20%E4%BB%8B%E7%BB%8D)_ 
 
@@ -75,18 +75,6 @@ _输入以上命令，即可快速启动文档预览服务，访问`http://127.0
 _输入以上命令，即可快速启动showdoc文档服务，访问`https://showdoc.shengtai.club/web/#/user/login`, 可以编辑文档进行预览类似雀语，第一次请默认创建公司账户admin/admin，后续会自动登录此账户，因为这个文档服务，主要是用于展示OA系统的规章制度，共享资料的，只需要一个账户就行了，关于文档预览服务更多信息，请Github上搜索showdoc_
 
 
-### 源码地址
-
- - github: https://github.com/Miazzy/oa-front-service 
- 
- - gitee: https://gitee.com/yunwisdoms/oa-front-service  
-
- - 注意：由于码云仓库最大只支持5G空间，现在容量不足，已经无法提交，故最新代码提交至github仓库，目前由于开发文档、部署文档尚未编写，在后续将抽空编写
-
-
-### 后端项目
-
- - gitee: https://gitee.com/yunwisdoms/oa-back-service
 
 
 ### 依赖项目
@@ -100,12 +88,6 @@ _输入以上命令，即可快速启动showdoc文档服务，访问`https://sho
 - https://gitee.com/miazzy/mili (米粒网开源社区的项目，集成到本项目，提供社区论坛，第三方博客功能)
 - https://gitee.com/june000/lemon-im (聊天项目，后续集成)
 
-### 预览地址
-
-- https://www.shengtai.club 
-`zhaoziyu/Miazzy@163.com ` 
-`admin/admin@123 `
-`zhaoziyun/zhaoziyun@123 `
 
 ### 部署文件
 - 部署本地mysql数据库 （支持mysql5.7/mysql8.0 , 数据库SQL传送门：https://gitee.com/yunwisdoms/jeecg-database-sync , 下载最新的一个sql.gz，然后用vim打开即可）
